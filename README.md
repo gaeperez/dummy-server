@@ -31,4 +31,4 @@ Once the Annotation Server is running, it will be possible to make requests! At 
 `curl -H "Content-Type: application/json" -X POST http://127.0.0.1:8088 -d "{\"name\": \"BeCalm\",\"method\": \"getState\",\"becalm_key\": \"b907e0df6bbc124844ae97dea98d3d0fc059c133\",\"custom_parameters\": {\"example\": true},\"parameters\": {}}"`
 
 ### License ###
-Copyright © 2019, Aitor Blanco Míguez. Released under the Unlicense license.
+Copyright © 2019, Aitor Blanco Míguez & Gael Pérez Rodríguez. Released under the Unlicense license.
